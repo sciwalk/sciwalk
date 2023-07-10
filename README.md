@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/QHV8soFvrWCSk/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 - 🌱 I’m currently learning web development, Python Programming, Cyber Security, and Machine Learning.
 - :zap: I’m also interested in music, hiking, and astronomy.
-- ⏺️  I recently discovered [Discogs](https://www.discogs.com) while writing a post for a "Python With Databases" course and I am using the record collector's database to catalog my collection, which includes records inherited from my parents and grandparents.
-
-
+- ⏺️  I recently discovered [Discogs](https://www.discogs.com) while writing a discussion post for a "Python For Databases" course and I am using the record collector's database to catalog my collection, which includes records inherited from my parents and grandparents.
+- 🪐  In my profile picture I am standing in front of a model of the [Cassini-Huygens spacecraft](https://www.jpl.nasa.gov/missions/cassini-huygens) during a visit to NASA Jet Propulsion Laboratory in Pasadena California for an educator's workshop. The animation above depicts the Grand Finale mission, the spacecraft's final orbits and plunge onto the surface of Jupiter. See the [Cassini-Huygens Timeline Poster](https://solarsystem.nasa.gov/resources/15646/cassinis-timeline-poster/)
