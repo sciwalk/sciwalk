@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 -->
 ### :man_technologist: About Me :
-- 🌱 I’m currently learning web development, Python Programming, Cyber Security, and Machine Learning
-- :zap: I’m also interested in music, hiking, and astronomy
-- ⏺️  I recently discovered [Discogs](https://www.discogs.com) and I am using the record collector's database to catalog my collection, which includes records inherited from my parents and grandparents.
+- 🌱 I’m currently learning web development, Python Programming, Cyber Security, and Machine Learning.
+- :zap: I’m also interested in music, hiking, and astronomy.
+- ⏺️  I recently discovered [Discogs](https://www.discogs.com) while writing a post for a "Python With Databases" course and I am using the record collector's database to catalog my collection, which includes records inherited from my parents and grandparents.
 
 
